@@ -6,7 +6,7 @@
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Mongoose, and more**
 - 👯 Looking to collaborate on **exciting and impactful projects**
-- 📄 Check out my [resume](https://drive.google.com/file/d/1iPm0rXSSfndoiOF4sqelU9RHjzQlWVgC/view?usp=sharing)
+- 📄 Check out my [resume](https://docs.google.com/document/d/10dV4PJYzVcULr7rs86NCAm_LqZQrAfZB/edit)
 - 📫 Reach me at **mahendrabalalport@gmail.com**
 
 ---
