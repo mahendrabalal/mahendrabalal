@@ -14,10 +14,11 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mahendra-balal-11356344/"/></a>
-<a href="https://twitter.com/username"><img src="https://x.com/MahenBalal"/></a>
-<a href="https://github.com/username"><img src="https://github.com/mahendrabalal"/></a>
+  <a href="https://www.linkedin.com/in/mahendra-balal-11356344/" target="_blank">LinkedIn</a>
+  <a href="https://twitter.com/MahenBalal" target="_blank">Twitter</a>
+  <a href="https://github.com/mahendrabalal" target="_blank">GitHub</a>
 </p>
+
 
 ---
 
