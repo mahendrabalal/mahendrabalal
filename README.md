@@ -14,9 +14,9 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/username"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://github.com/username"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahendra-balal-11356344/"/></a>
+<a href="https://twitter.com/username"><img src="https://x.com/MahenBalal"/></a>
+<a href="https://github.com/username"><img src="https://github.com/mahendrabalal"/></a>
 </p>
 
 ---
