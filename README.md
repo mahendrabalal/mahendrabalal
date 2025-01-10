@@ -2,7 +2,7 @@
 
 ### 🚀 A passionate Full-Stack Developer based in Porto, Portugal.
 
-- 🔭 Currently working on **Local Handicraft**
+- 🔭 Currently working on **Kariz** as Intern.
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Mongoose, and more**
 - 👯 Looking to collaborate on **exciting and impactful projects**
