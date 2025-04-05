@@ -1,6 +1,6 @@
 # Hi there, I'm Mahendra Balal! 👋
 
-### 🚀 A passionate Full-Stack Developer based in Porto, Portugal.
+### 🚀 A Full-Stack Developer based in Porto, Portugal.
 
 - 🔭 Currently working on **Kariz** as Intern.
 - 🌱 Always learning and exploring new technologies
